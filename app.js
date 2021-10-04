@@ -3,8 +3,7 @@ const app = express()
 const path = require('path')
 const expressLayouts = require('express-ejs-layouts');
 const mongoose  = require('mongoose');
-const port = 3000
-
+const port = 8000
 
  
 
